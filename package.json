@@ -1,0 +1,12 @@
+{
+  "name": "match-card-scraper",
+  "version": "1.0.0",
+  "description": "Football scraper",
+  "main": "scrape-matches.js",
+  "scripts": {
+    "start": "node scrape-matches.js"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
