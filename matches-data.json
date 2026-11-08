@@ -1,6 +1,151 @@
 {
-  "updatedAt": "2026-11-08T02:30:24.298Z",
+  "updatedAt": "2026-11-08T02:32:51.541Z",
   "source": "live-feed.net",
-  "total": 0,
-  "matches": []
+  "total": 24,
+  "matches": [
+    {
+      "match": "Napoli vs Lazio",
+      "time": "11:30 AM",
+      "channel": "Starzplay Sport 1",
+      "commentator": "عيسى الحربين"
+    },
+    {
+      "match": "Genoa vs Milan",
+      "time": "2:00 PM",
+      "channel": "Starzplay Sport 1",
+      "commentator": "محمد الشامسي"
+    },
+    {
+      "match": "Monza vs Atalanta",
+      "time": "2:00 PM",
+      "channel": "Starzplay Sport 2",
+      "commentator": "أحمد الخير"
+    },
+    {
+      "match": "Inter vs Como",
+      "time": "5:00 PM",
+      "channel": "Starzplay Sport 1",
+      "commentator": "فارس عوض"
+    },
+    {
+      "match": "Fiorentina vs Juventus",
+      "time": "7:45 PM",
+      "channel": "Starzplay",
+      "commentator": "حازم عبدالسلام"
+    },
+    {
+      "match": "Elche vs Real Betis",
+      "time": "1:00 PM",
+      "channel": "Bein Sport 8",
+      "commentator": "منتصر الأزهري"
+    },
+    {
+      "match": "Real Sociedad vs Rayo Vallecano",
+      "time": "3:15 PM",
+      "channel": "BeIn Sports Xtra 6",
+      "commentator": "محمد المبروكي"
+    },
+    {
+      "match": "Celta vs Levante",
+      "time": "5:30 PM",
+      "channel": "BeIn Sports Xtra 1",
+      "commentator": "سمير اليعقوبي"
+    },
+    {
+      "match": "Villarreal vs Getafe",
+      "time": "5:30 PM",
+      "channel": "Bein Sport 6",
+      "commentator": "جواد بدة"
+    },
+    {
+      "match": "Atlético Madrid vs Barcelona",
+      "time": "8:00 PM",
+      "channel": "Bein Sport 1",
+      "commentator": "حسن العيدروس"
+    },
+    {
+      "match": "Brighton vs Brentford",
+      "time": "2:00 PM",
+      "channel": "Bein Sport 4",
+      "commentator": "علي محمد علي"
+    },
+    {
+      "match": "Crystal Palace vs Liverpool",
+      "time": "2:00 PM",
+      "channel": "Bein Sport 1",
+      "commentator": "علي سعيد الكعبي"
+    },
+    {
+      "match": "Ipswich vs Bournemouth",
+      "time": "2:00 PM",
+      "channel": "BeIn Sports Xtra 1",
+      "commentator": "محمد نضال"
+    },
+    {
+      "match": "Sunderland vs Chelsea",
+      "time": "2:00 PM",
+      "channel": "Bein Sport 3",
+      "commentator": "عصام الشوالي"
+    },
+    {
+      "match": "Man Utd vs Aston Villa",
+      "time": "4:30 PM",
+      "channel": "Bein Sport 1",
+      "commentator": "خليل البلوشي"
+    },
+    {
+      "match": "Çorum vs Fenerbahçe",
+      "time": "1:00 PM",
+      "channel": "Bein Sport 5",
+      "commentator": "محمد السعدي"
+    },
+    {
+      "match": "Alanyaspor vs Trabzonspor",
+      "time": "3:30 PM",
+      "channel": "Bein Sport 5",
+      "commentator": "نوفل باشي"
+    },
+    {
+      "match": "Beşiktaş vs Gençlerbirliği",
+      "time": "6:00 PM",
+      "channel": "Bein Sport 5",
+      "commentator": "محمد فوزي"
+    },
+    {
+      "match": "Rennes vs Lille",
+      "time": "2:00 PM",
+      "channel": "Bein Sport 6",
+      "commentator": "عامر الخوذيري"
+    },
+    {
+      "match": "Angers vs Nice",
+      "time": "4:15 PM",
+      "channel": "Bein Sport 4",
+      "commentator": "عبدالله الغامدي"
+    },
+    {
+      "match": "Brest vs Lyon",
+      "time": "4:15 PM",
+      "channel": "Bein Sport 2",
+      "commentator": "أحمد البلوشي"
+    },
+    {
+      "match": "Lens vs Marseille",
+      "time": "7:45 PM",
+      "channel": "Bein Sport 2",
+      "commentator": "نوفل باشي"
+    },
+    {
+      "match": "Le Mans vs AS Monaco",
+      "time": "4:15 PM",
+      "channel": "Bein Sport 3",
+      "commentator": "محمد بركات"
+    },
+    {
+      "match": "Sundowns vs USM Alger",
+      "time": "1:00 PM",
+      "channel": "Bein Sport 2",
+      "commentator": "حفيظ دراجي"
+    }
+  ]
 }
